@@ -18,20 +18,6 @@ Getting Started
 
 To run the GPA Tracker application, follow these steps:
 
-Clone the repository to your local machine:
-bash
-Copy code
-git clone <repository-url>
-Compile the Java files:
-Copy code
-javac *.java
-Run the main Java class:
-Copy code
-java GPATracker
+Clone the repository to your local machine,
+Compile the Java files,Run the main Java class: GPATracker
 Follow the on-screen prompts to register, log in, and use the application.
-Technologies Used
-
-Java
-Scanner (for user input)
-HashMap (for user storage)
-Git (for version control)
